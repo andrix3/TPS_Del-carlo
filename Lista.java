@@ -65,6 +65,8 @@ public class Lista {
                     break;
                 default:
                     System.out.println("inserito num scoretto, riprova!");
+                    System.out.println("YES!");
+                    
             }
         }
         scan.close();
